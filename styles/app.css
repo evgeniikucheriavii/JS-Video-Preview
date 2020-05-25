@@ -27,6 +27,13 @@ body, html
 	padding: 5px;
 }
 
+.video
+{
+	display: block;
+	width: 90%;
+	margin: 5px auto;
+}
+
 .item
 {
 	color: #111;
