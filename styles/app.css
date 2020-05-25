@@ -37,7 +37,6 @@ body, html
 .item
 {
 	color: #111;
-	font-size: 16pt;
 	display: inline-block;
 	vertical-align: top;
 }
@@ -50,6 +49,11 @@ body, html
 .item__thumb
 {
 	width: 350px;
+}
+
+.item__text
+{
+	font-size: 16pt;
 }
 
 .item:hover
